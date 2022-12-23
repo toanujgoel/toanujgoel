@@ -1,6 +1,5 @@
 <img src="https://images.squarespace-cdn.com/content/v1/58a461049de4bbcb2b7af72f/1642145583596-DFMJYEQFUERU3L6KJE81/bannerimage.jpg?format=2500w"/>
-<h1 align="center">Hi 👋, I'm Anuj Goel</h1>
-<h3 align="center"></h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <h1 align="center">Hi 👋, I'm Anuj Goel</h1>
@@ -12,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/toanujgoel" target="blank"><img src="https://img.shields.io/twitter/follow/toanujgoel?logo=twitter&style=for-the-badge" alt="toanujgoel" /></a> </p>
 
-- 🌱 I’m currently learning **Blender**
+- 🌱 I have experience working with **python libraries, selenium, Cypress and QA testing**. I’m currently learning Blender.
 
 - 🤝 I’m looking for help with [Animation Reality Series](https://www.youtube.com/@animated.reality)
 
