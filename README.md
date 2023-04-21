@@ -13,7 +13,7 @@
 
 - 🌱 I have experience working with **python libraries, selenium, Cypress and QA testing**. I’m currently learning Applitools.
 
-- 🤝 I’m looking for help with [Animation Reality Series](https://www.youtube.com/@animated.reality)
+- 🤝 I’m open to collaborate for projects on latest AI technlogies and tools
 
 - 👨‍💻 All of my projects are available at [https://github.com/toanujgoel/](https://github.com/toanujgoel/)
 
