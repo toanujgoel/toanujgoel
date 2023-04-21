@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/toanujgoel" target="blank"><img src="https://img.shields.io/twitter/follow/toanujgoel?logo=twitter&style=for-the-badge" alt="toanujgoel" /></a> </p>
 
-- 🌱 I have experience working with **python libraries, selenium, Cypress and QA testing**. I’m currently learning Blender.
+- 🌱 I have experience working with **python libraries, selenium, Cypress and QA testing**. I’m currently learning Applitools.
 
 - 🤝 I’m looking for help with [Animation Reality Series](https://www.youtube.com/@animated.reality)
 
