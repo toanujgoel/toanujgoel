@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <h1 align="center">Hi 👋, I'm Anuj Goel</h1>
-<h3 align="center">An automation engineer and a passionate storyteller from India. I am interested in animations, latest tech news and how technology works in the background. <a href="https://www.youtube.com/@animated.reality"> Click here to view my animated stories collections</a> </h3>
+<h3 align="center">An automation engineer and a passionate storyteller from India. I am interested in animations, latest tech news and how technology works in the background. <a href="https://www.youtube.com/@animality.onboard"> Click here to view my animated stories collections</a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toanjgoel&label=Profile%20views&color=0e75b6&style=flat" alt="toanjgoel" /> </p>
 
